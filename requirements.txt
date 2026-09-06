@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+yfinance
+openpyxl
+python-pptx
+groq
+python-dotenv
+pytest
